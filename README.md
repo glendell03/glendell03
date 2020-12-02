@@ -1,21 +1,17 @@
-### Hi I'm Glendell 👋
-- 🌱 I’m currently learning ReactJs
-- 📫 How to reach me:
-  - ✉️ dellbringino@gmail.com
-  - 📘 https://www.facebook.com/glendell03/
-- 🏫 Certificates: https://github.com/glendell03/Certificates
-<img src="https://github-readme-stats.vercel.app/api?username=glendell03&&show_icons=true&title_color=ffffff&icon_color=41aea9&text_color=e8ffff&bg_color=213e3b"/>
-<!--
-**glendell03/glendell03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Glendell Bringino
+#### Front End Web Developer
+![Front End Web Developer](https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzJ8fG1lY2hhbmljYWwlMjBrZXlib2FyZHxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
-Here are some ideas to get you started:
+I'm Glendell taking up Computer Engineering at Polytechnic University of the Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS / PYTHON
+
+- 🔭 I’m currently working on improving my skills 
+- 🌱 I’m currently learning ReactJs and Machine Learning 
+- 📫 How to reach me: dellbringino@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glendell03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/glendell03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/glendell03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/glendell_)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=glendell03&show_icons=true&title_color=ffffff&icon_color=41aea9&text_color=e8ffff&bg_color=213e3b)  
+
