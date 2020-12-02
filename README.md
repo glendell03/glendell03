@@ -1,10 +1,8 @@
 ### Hi I'm Glendell 👋
 - 🌱 I’m currently learning ReactJs
-- 🏫 Certificates
-  - https://github.com/glendell03/Certificates
-- 📫 How to reach me:
   - ✉️ dellbringino@gmail.com
   - 📷 glendell03
+- 🏫 Certificates: https://github.com/glendell03/Certificates
 <!--
 **glendell03/glendell03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
