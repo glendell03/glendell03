@@ -2,7 +2,7 @@
 #### Student | Front End Web Developer
 ![Front End Web Developer](https://github.com/glendell03/glendell03/blob/main/githubbanner.png)
 
-I'm Glendell Bringino taking up Computer Engineering at Polytechnic University of the Philippines.
+Computer Engineering student at Polytechnic University of the Philippines.
 
 Skills: REACT / JS / HTML / CSS / PYTHON
 
