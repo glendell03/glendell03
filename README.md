@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 - 🌱 I’m currently learning ReactJs and Machine Learning 
 - 📫 How to reach me: dellbringino@gmail.com
 
-### Connect with me:
+### Connect with me
 [<img align="left" width="26px" alt="facebook" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" />][facebook]
 [<img align="left" width="26px" alt="twitter" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" width="26px" alt="instagram" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />][instagram]
