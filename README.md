@@ -35,8 +35,8 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glendell03&layout=compact)](https://github.com/glendell03/Certificates)
-[![Certificates](https://github-readme-stats.vercel.app/api/pin/?username=glendell03&repo=Certificates)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glendell03&layout=compact)](https://github.com/glendell03)
+[![Certificates](https://github-readme-stats.vercel.app/api/pin/?username=glendell03&repo=Certificates)](https://github.com/glendell03/Certificates)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glendell03&show_icons=true&count_private=true&title_color=ffffff&icon_color=41aea9&text_color=e8ffff&bg_color=213e3b)  
 
