@@ -1,5 +1,6 @@
 ### Hi I'm Glendell 👋
 - 🌱 I’m currently learning ReactJs
+- 📫 How to reach me:
   - ✉️ dellbringino@gmail.com
   - 📷 glendell03
 - 🏫 Certificates: https://github.com/glendell03/Certificates
