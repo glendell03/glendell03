@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me:
   - ✉️ dellbringino@gmail.com
-  - 📷 glendell03
+  - 📷 Ig: glendell03
 - 🏫 Certificates: https://github.com/glendell03/Certificates
 <img src="https://github-readme-stats.vercel.app/api?username=glendell03&&show_icons=true&title_color=ffffff&icon_color=41aea9&text_color=e8ffff&bg_color=213e3b"/>
 <!--
