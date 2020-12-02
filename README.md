@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Glendell
 #### Front End Web Developer
-![Front End Web Developer](https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzJ8fG1lY2hhbmljYWwlMjBrZXlib2FyZHxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+![Front End Web Developer](https://github.com/glendell03/glendell03/blob/main/githubbanner.png)
 
 I'm Glendell Bringino taking up Computer Engineering at Polytechnic University of the Philippines.
 
