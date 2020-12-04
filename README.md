@@ -35,11 +35,13 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 <br/>
 <br/>
 
-[<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=glendell03&layout=compact" />][https://github.com/glendell03]
-[<img alt="Certificate" src="https://github-readme-stats-tau.vercel.app/api/pin/?username=glendell03&repo=Certificates" />][https://github.com/glendell03/Certificates]
+[<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=glendell03&layout=compact" />][Github]
+[<img alt="Certificate" src="https://github-readme-stats-tau.vercel.app/api/pin/?username=glendell03&repo=Certificates" />][Certificates]
 
 <img alt="GitHub Stats" src="https://github-readme-stats-tau.vercel.app/api?username=glendell03&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
 
 [facebook]: https://www.facebook.com/glendell03/
 [twitter]: https://twitter.com/glendell_
 [instagram]: https://www.instagram.com/glendell03/?hl=en
+[Github]: https://github.com/glendell03
+[Certificates]: https://github.com/glendell03/Certificates
