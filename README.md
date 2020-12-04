@@ -35,10 +35,10 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 <br/>
 <br/>
 
-[<img alt="Top Langs" src="https://https://github.com/glendell03/glendell03.git/api/top-langs/?username=glendell03&layout=compact" />][https://github.com/glendell03]
-[<img alt="Certificate" src="https://https://github.com/glendell03/glendell03.git/api/pin/?username=glendell03&repo=Certificates" />][https://github.com/glendell03/Certificates]
+[<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=glendell03&layout=compact" />][https://github.com/glendell03]
+[<img alt="Certificate" src="https://github-readme-stats-tau.vercel.app/api/pin/?username=glendell03&repo=Certificates" />][https://github.com/glendell03/Certificates]
 
-<img alt="GitHub Stats" src="https://https://github.com/glendell03/glendell03.git/api?username=glendell03&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
+<img alt="GitHub Stats" src="https://github-readme-stats-tau.vercel.app/api?username=glendell03&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
 
 [facebook]: https://www.facebook.com/glendell03/
 [twitter]: https://twitter.com/glendell_
