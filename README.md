@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Glendell
+### Hello 👋 I'm Glendell
 #### Student | Front End Web Developer
 ![Front End Web Developer](https://github.com/glendell03/glendell03/blob/main/githubbanner.png)
 
