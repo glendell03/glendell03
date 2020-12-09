@@ -6,7 +6,7 @@ Computer Engineering student at Polytechnic University of the Philippines.
 
 Skills: REACT / JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on improving my skills 
+- 🔭 I’m currently working on improving my skills in Full Stack Development
 - 🌱 I’m currently learning ReactJs and Machine Learning 
 - 📫 How to reach me: dellbringino@gmail.com
 
