@@ -1,8 +1,9 @@
 ### Hello 👋 I'm Glendell
-#### Student | Front End Web Developer
+#### Student | Aspiring Software Engineer
 ![Front End Web Developer](https://github.com/glendell03/glendell03/blob/main/githubbanner.png)
 
 Computer Engineering student at Polytechnic University of the Philippines.
+I'm interested in creating websites
 
 Skills: REACT / JS / HTML / CSS / PYTHON
 
@@ -42,6 +43,6 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 
 [facebook]: https://www.facebook.com/glendell03/
 [twitter]: https://twitter.com/glendell_
-[instagram]: https://www.instagram.com/glendell03/?hl=en
+[instagram]: https://www.instagram.com/dev.glendell/?hl=en
 [Github]: https://github.com/glendell03
 [Certificates]: https://github.com/glendell03/Certificates
