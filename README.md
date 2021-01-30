@@ -13,6 +13,7 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 - 🗄️ Check <a href="https://drive.google.com/file/d/1xBjOMl5aMzca-bViVJBGidYO1M4rjMpJ/view?usp=sharing">My resume</a>
 
 ### Connect with me
+[<img align="left" width="26px" alt="facebook" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1611977498~hmac=30396cbd8f1c5c751df49e5f2384f72b" />][linkedin]
 [<img align="left" width="26px" alt="facebook" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" />][facebook]
 [<img align="left" width="26px" alt="twitter" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" width="26px" alt="instagram" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />][instagram]
@@ -42,7 +43,7 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-tau.vercel.app/api?username=glendell03&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
 
 
-
+[linkedin]: https://www.linkedin.com/in/glendell03/
 [facebook]: https://www.facebook.com/glendell03/
 [twitter]: https://twitter.com/glendell_
 [instagram]: https://www.instagram.com/dev.glendell/?hl=en
