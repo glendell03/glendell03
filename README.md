@@ -10,7 +10,6 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 - 🔭 I’m currently working on Alt F4 Website
 - 🌱 I’m currently learning ReactJs and Machine Learning 
 - 📫 How to reach me: dellbringino@gmail.com
-- 🗄️ Check <a href="https://drive.google.com/file/d/1xBjOMl5aMzca-bViVJBGidYO1M4rjMpJ/view?usp=sharing">My resume</a>
 
 ### Connect with me
 [<img align="left" width="26px" alt="facebook" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1611977498~hmac=30396cbd8f1c5c751df49e5f2384f72b" />][linkedin]
