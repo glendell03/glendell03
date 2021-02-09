@@ -11,20 +11,25 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 - 🌱 I’m currently learning ReactJs and Machine Learning 
 - 🏆 <a href="https://github.com/glendell03/Certificates">Certificates</a>
 - 📫 How to reach me: dellbringino@gmail.com
+<br/>
+
 
 ### ✨ Recent Tech Activities
+<br/>
+
 - CSS 5.0 UP Cursor Ideathon where we come up with an idea to create an urban planning cloud-based software designed to help planner, designers, environmental analyst, and policymakers
 - Hackfest 2020, Developer Student Clubs Loyola where we build a web app which helps the user to buy their grocery with ease
 
+
 ### 🔗 Connect with me
+
 [<img align="left" width="26px" alt="facebook" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
 [<img align="left" width="26px" alt="facebook" src="https://img.icons8.com/fluent/344/facebook-new.png" />][facebook]
 [<img align="left" width="26px" alt="twitter" src="https://img.icons8.com/fluent/344/twitter.png" />][twitter]
 [<img align="left" width="26px" alt="instagram" src="https://img.icons8.com/fluent/344/instagram-new.png" />][instagram]
 
-<br/>
-
 ### 🧰 Languages & Tools
+
 <img align="left" width="26px" alt="vscode" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" />
 <img align="left" width="26px" alt="html" src="https://img.icons8.com/color/2x/html-5.png" />
 <img align="left" width="26px" alt="css" src="https://img.icons8.com/color/2x/css3.png" />
