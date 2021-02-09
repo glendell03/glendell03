@@ -2,16 +2,21 @@
 #### Student | Aspiring Software Engineer
 ![Front End Web Developer](https://github.com/glendell03/glendell03/blob/main/githubbanner.png)
 
-Computer Engineering student at Polytechnic University of the Philippines.
-I'm interested in creating websites
+
+A second-year Computer Engineering college student from Polytechnic University of the Philippines. Currently, I seeking an opportunity to learn and grow, team-oriented, and a happy workplace. I worked mainly on front-end development. Also, I'm starting to learn Machine at DataCamp. Programming, dancing, and gaming are my best interests. I also enjoy joining webinars/hackathon event. 
 
 Skills: REACT / JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on Alt F4 Website
 - 🌱 I’m currently learning ReactJs and Machine Learning 
+- 🏆 <a href="https://github.com/glendell03/Certificates">Certificates</a>
 - 📫 How to reach me: dellbringino@gmail.com
 
-### Connect with me
+### ✨ Recent Tech Activities
+- CSS 5.0 UP Cursor Ideathon where we come up with an idea to create an urban planning cloud-based software designed to help planner, designers, environmental analyst, and policymakers
+- Hackfest 2020, Developer Student Clubs Loyola where we build a web app which helps the user to buy their grocery with ease
+
+### 🔗 Connect with me
 [<img align="left" width="26px" alt="facebook" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
 [<img align="left" width="26px" alt="facebook" src="https://img.icons8.com/fluent/344/facebook-new.png" />][facebook]
 [<img align="left" width="26px" alt="twitter" src="https://img.icons8.com/fluent/344/twitter.png" />][twitter]
@@ -19,7 +24,7 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 
 <br/>
 
-### Languages & Tools
+### 🧰 Languages & Tools
 <img align="left" width="26px" alt="vscode" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" />
 <img align="left" width="26px" alt="html" src="https://img.icons8.com/color/2x/html-5.png" />
 <img align="left" width="26px" alt="css" src="https://img.icons8.com/color/2x/css3.png" />
