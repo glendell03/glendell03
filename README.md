@@ -27,6 +27,7 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 [<img align="left" width="26px" alt="facebook" src="https://img.icons8.com/fluent/344/facebook-new.png" />][facebook]
 [<img align="left" width="26px" alt="twitter" src="https://img.icons8.com/fluent/344/twitter.png" />][twitter]
 [<img align="left" width="26px" alt="instagram" src="https://img.icons8.com/fluent/344/instagram-new.png" />][instagram]
+<br/>
 
 ### 🧰 Languages & Tools
 
