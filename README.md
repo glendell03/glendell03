@@ -15,8 +15,8 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 
 
 ### ✨ Recent Tech Activities
-<br/>
 
+- We launched are our very own start-up website portfolio that provides services for the clients desired web design and development
 - CSS 5.0 UP Cursor Ideathon where we come up with an idea to create an urban planning cloud-based software designed to help planner, designers, environmental analyst, and policymakers
 - Hackfest 2020, Developer Student Clubs Loyola where we build a web app which helps the user to buy their grocery with ease
 
