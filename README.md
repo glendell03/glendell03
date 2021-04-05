@@ -7,7 +7,7 @@ A second-year Computer Engineering college student from Polytechnic University o
 
 Skills: REACT / JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on FiveThing Website
+- 🔭 I’m currently working on Ain't Board Web Application
 - 🌱 I’m currently learning ReactJs and Machine Learning 
 - 🏆 <a href="https://github.com/glendell03/Certificates">Certificates</a>
 - 📃 <a href="https://drive.google.com/file/d/1QTNohc5OB1c0E7CXLmXuckDa3XnLLL6s/view?usp=sharing">My Resume</a>
