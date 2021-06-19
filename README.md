@@ -36,8 +36,11 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 <img align="left" width="26px" alt="html" src="https://img.icons8.com/color/2x/html-5.png" />
 <img align="left" width="26px" alt="css" src="https://img.icons8.com/color/2x/css3.png" />
 <img align="left" width="26px" alt="scss" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" />
+<img align="left" width="26px" alt="tailwind" src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" />
 <img align="left" width="26px" alt="js" src="https://img.icons8.com/color/2x/javascript.png" />
+<img align="left" width="26px" alt="typescript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" width="26px" alt="reactjs" src="https://img.icons8.com/color/2x/react-native.png" />
+<img align="left" width="26px" alt="nextjs" src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png?width=256&s=3ee4c30d4736dc4024319d53c20c6dacb5d11bb0" />
 <img align="left" width="26px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" />
 <img align="left" width="26px" alt="mongodb" src="https://img.icons8.com/color/2x/mongodb.png" />
 <img align="left" width="26px" alt="firebase" src="https://img.icons8.com/color/2x/firebase.png" />
