@@ -52,8 +52,12 @@ Skills: REACT / JS / HTML / CSS / PYTHON
 <br/>
 
 
-[<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=glendell03&layout=compact" />][Github]
+[<img alt="Top Langs" src="https://github-readme-stats-tau.vercel.app/api/top-langs/?username=glendell03&layout=compact&exclude_repo=talaarawan" />][Github]
 <img alt="GitHub Stats" height="165px" src="https://github-readme-stats-tau.vercel.app/api?username=glendell03&show_icons=true&count_private=true&title_color=e3fdfd&icon_color=c6fce5&text_color=fafafa&bg_color=15b7b9" />
+
+
+
+
 
 
 [linkedin]: https://www.linkedin.com/in/glendell03/
