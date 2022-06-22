@@ -11,7 +11,7 @@ A graduating student at the Polytechnic University of the Philippines majoring i
 * ✉️  You can contact me at [dellbringino@gmail.com](mailto:dellbringino@gmail.com)
 * 🧠  I'm learning Machine Learning and AI
 * 🤝  I'm open to collaborating on interesting projects
-* 📃 <a href="https://drive.google.com/file/d/13I7vWntJPflJZJRO-isMQnDyj7L4Timw/view?usp=sharing">My Resume</a>
+* 📃 <a href="https://drive.google.com/file/d/1rXuLaZGz0z3Jp5HEzh15OX5FHgrAMGbO/view?usp=sharing">My Resume</a>
 
 ### Skills
 
