@@ -1,10 +1,10 @@
 Hi 👋 My name is Glendell
 =========================
 
-Computer Engineering Student | Software Engineer
+Software Engineer
 ------------------------------------------------
 
-👋 Hi there! I'm Glendell, a versatile Full Stack Software Engineer and Mobile App Developer with a passion for crafting robust and user-centric solutions. My expertise spans across a range of technologies including TypeScript, Next.js, Express.js, Prisma ORM, and React Native.
+A versatile Full Stack Software Engineer and Mobile App Developer with a passion for crafting robust and user-centric solutions. My expertise spans across a range of technologies including TypeScript, Next.js, Express.js, Prisma ORM, and React Native.
 
 🚀 I thrive on turning ideas into scalable and efficient applications, whether it's on the web or mobile platforms. With a strong foundation in Git/Github and a keen eye for clean code, I'm committed to delivering high-quality software.
 
