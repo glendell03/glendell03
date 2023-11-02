@@ -4,12 +4,18 @@ Hi 👋 My name is Glendell
 Computer Engineering Student | Software Engineer
 ------------------------------------------------
 
-A graduating student at the Polytechnic University of the Philippines majoring in Computer Engineering. Most of my time was spent working on the front end. Another thing on my to-do list is to learn Machine Learning. Besides programming, I also enjoy dancing and playing video games.
+👋 Hi there! I'm Glendell, a versatile Full Stack Software Engineer and Mobile App Developer with a passion for crafting robust and user-centric solutions. My expertise spans across a range of technologies including TypeScript, Next.js, Express.js, Prisma ORM, and React Native.
+
+🚀 I thrive on turning ideas into scalable and efficient applications, whether it's on the web or mobile platforms. With a strong foundation in Git/Github and a keen eye for clean code, I'm committed to delivering high-quality software.
+
+📊 Additionally, I have a solid background in Data Analysis, leveraging Python to glean actionable insights from complex datasets. This multidisciplinary approach allows me to offer comprehensive solutions that bridge the gap between development and data-driven decision-making.
+
+Let's collaborate on building innovative solutions that make an impact! Feel free to reach out for any exciting opportunities or projects. 👨‍💻
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [this website](http://glendell03.github.io/portfolio/)
-* ✉️  You can contact me at [dellbringino@gmail.com](mailto:dellbringino@gmail.com)
-* 🧠  I'm learning Machine Learning and AI
+* ✉️  You can contact me at [dellbringino+work@gmail.com](mailto:dellbringino+work@gmail.com)
+* 🧠  I'm learning Solana Blockchain
 * 🤝  I'm open to collaborating on interesting projects
 * 📃 <a href="https://drive.google.com/file/d/1rXuLaZGz0z3Jp5HEzh15OX5FHgrAMGbO/view?usp=sharing">My Resume</a>
 
